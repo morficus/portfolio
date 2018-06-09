@@ -1,0 +1,24 @@
+{
+  "name": "maurice-portfolio",
+  "version": "1.0.0",
+  "description": "A place to showcase the things I've done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx vuepress build",
+    "dev": "npx vuepress dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/morficus/portfolio.git"
+  },
+  "author": "Maurice Williams <morficus@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morficus/portfolio/issues"
+  },
+  "homepage": "https://github.com/morficus/portfolio#readme",
+  "dependencies": {
+    "vuepress": "^0.10.1"
+  }
+}
