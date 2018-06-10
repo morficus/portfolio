@@ -3,13 +3,15 @@ module.exports = {
     description: 'A place to showcase the things I\'ve done',
     themeConfig: {
         nav: [
-            { text: 'My Work', link: '/portfolio' },
-            { text: 'Career', link: '/resume' },
+            { text: 'My Work', link: '/portfolio/' },
+            { text: 'My Career', link: '/resume/' },
             { text: 'Hire me', link: 'https://www.upwork.com/fl/mauricew24'},
             { text: 'Get in touch', items: [
                     { text: 'Twitter', link: 'https://www.twitter.com/morficus' },
                     { text: 'GitHub', link: 'https://www.github.com/morficus' },
                     { text: 'LinkedIn', link: 'https://www.linkedin.com/in/mauricew/' },
+                    { text: 'StackOverflow', link: 'https://stackoverflow.com/users/1021300/maurice'},
+                    { text: 'Sourcerer', link: 'https://sourcerer.io/morficus'},
                     { text: 'Email', link: '/contact' }
                 ] },
         ],
