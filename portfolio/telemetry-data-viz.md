@@ -1,7 +1,8 @@
 # Telemetry Data Visualization
 The client was in the process of migrating their internal customer portal from ColdFusion to a modern platform.    
+
 My responsibilities were only to create very specific components that would help his customers visualize historical data
-collected from various field monitoring sensors.  
+collected from various field monitoring sensors. The client would later take the stand-alone components and add them where needed in the main application.
 
 All charts were made with [ChartJS](https://www.chartjs.org/) inside custom Vue components.
  

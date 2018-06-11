@@ -11,12 +11,12 @@ Calculator tool to help users compare the cost of growing their own marijuana vs
 Custom Vue components for dynamic data visualizations of environment-monitoring sensor data 
 [see details](./telemetry-data-viz.md)
 
-## Music Metadata Quality Analyzer
-An Electron-based app to analyze the quality of music metadata
-[see details](./music-analyzer.md)
+## Musical Turk
+A music metadata quality analyzer built in Electron with Vue and Node.js  
+[see details](./musical-turk.md)
 
 ## Simple As Can Be
-Internal site to collect employee ideas to help with cost-saving initiatives
+Internal company web app to collect employee ideas around cost-saving initiatives  
 [see details](./simple-as-can-be.md)
 
 ## XML to REST API Facaed
