@@ -24,7 +24,7 @@ module.exports = {
         lastUpdated: true,
     },
 
-    // base: '/portfolio/',
+    base: '/',
     head: [
         ['meta', {'http-equiv': 'X-UA-Compatible', content: 'IE=edge'}]
     ],
