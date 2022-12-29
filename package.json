@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/morficus/portfolio#readme",
   "dependencies": {
-    "vuepress": "^0.14.2"
+    "vuepress": "^1.9.7"
   },
   "devDependencies": {}
 }
